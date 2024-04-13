@@ -1,0 +1,14 @@
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\bin\Debug\net8.0\week15OOPandFiles.exe
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\bin\Debug\net8.0\week15OOPandFiles.deps.json
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\bin\Debug\net8.0\week15OOPandFiles.runtimeconfig.json
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\bin\Debug\net8.0\week15OOPandFiles.dll
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\bin\Debug\net8.0\week15OOPandFiles.pdb
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\obj\Debug\net8.0\week15OOPandFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\obj\Debug\net8.0\week15OOPandFiles.AssemblyInfoInputs.cache
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\obj\Debug\net8.0\week15OOPandFiles.AssemblyInfo.cs
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\obj\Debug\net8.0\week15OOPandFiles.csproj.CoreCompileInputs.cache
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\obj\Debug\net8.0\week15OOPandFiles.dll
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\obj\Debug\net8.0\refint\week15OOPandFiles.dll
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\obj\Debug\net8.0\week15OOPandFiles.pdb
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\obj\Debug\net8.0\week15OOPandFiles.genruntimeconfig.cache
+C:\Users\tonis.teder\source\repos\week15OOPandFiles\week15OOPandFiles\obj\Debug\net8.0\ref\week15OOPandFiles.dll
